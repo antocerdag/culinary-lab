@@ -1,1 +1,54 @@
-style.css
+*{
+	padding: 0;
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* NAVBAR */
+
+.text-uppercase{
+	text-transform: uppercase;
+}
+
+.navbar{
+	position: fixed;
+	z-index: 1;
+	width: 100%;
+}
+
+.navbar a{
+	color: white;
+}
+
+.navbar a:hover{
+	color: #000000;
+	background-color: white;
+}
+
+.navbar-background{
+	background-image: url(../img/bg-header.jpg);
+	background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.logo{
+	width: 110px;
+}
+
+.contenedor-profile{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 160px;
+	margin-bottom: 160px;
+}
+
+.flecha{
+	color: white;
+    border: 3px solid #fff;
+    -webkit-border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+/* VALUES */
