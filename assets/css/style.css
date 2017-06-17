@@ -249,3 +249,63 @@ margin-bottom:100px;
     font-weight: 900;
     color: white;
 }
+
+/* SECCION HORAS */
+
+.hours{
+	background-image: url(../img/bg-pricing.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: white;
+}
+
+.hours-title h1{
+    font-size: 59px;
+    font-weight: 900;
+    color: white;
+    margin-top: 90px;
+}
+
+.hours-title p{
+	font-size: 18px;
+    font-weight: 100;
+}
+
+.caja-horas{
+    width: 364px;
+    height: 338px;
+    margin: 13px;
+    margin-bottom: 120px;
+    background-color: white;
+    color: black;
+}
+
+.caja-horas h3{
+	font-weight: 900;
+    font-size: 32px;
+}
+
+.cajap{
+    border: 1px solid #B3B3B3;
+    height: 44px;
+    width: 92%;
+    margin-left: 12px;
+    display: flex;
+    margin-top: -1px;
+    justify-content: center;
+    align-items: center;
+}
+
+.cajap p{
+	margin-top: 10px;
+}
+
+.boton{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 8px;
+    font-weight: 900;
+    font-size: 18px;
+}
