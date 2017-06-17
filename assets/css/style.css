@@ -49,6 +49,8 @@
     border: 3px solid #fff;
     -webkit-border-radius: 50%;
     margin-bottom: 20px;
+    font-size: 34px;
+    padding: 5px;
 }
 
 /* VALUES */
@@ -70,8 +72,32 @@
 
 }
 
-.icons{
-	width: 20px;
+.icons span{
+	border-radius: 100%;
+    border: 3px solid black;
+    display: inline-block;
+    font-size: 41px;
+    color: black;
+    font-weight: 300;
+    padding: 15px;
+    padding-top: 19px;
+}
+
+.icons i{
+	border-radius: 100%;
+	border: 1px solid black;
+	display: inline-block;
+	font-size: 15px;
+	color: black;
+	font-weight: 300;
+	padding: 15px;
+	padding-top: 19px;
+    margin-left: 63px;
+    margin-top: 15px;
+}
+
+.texto-section-dos{
+	margin-bottom: 80px;
 }
 .texto-section-dos h3{
 	text-align: left;
@@ -81,4 +107,8 @@
 
 .texto-section-dos li{
 	text-align: left;
+	font-style: italic;
+	margin: 9px;
 }
+
+
