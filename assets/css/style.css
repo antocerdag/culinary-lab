@@ -309,3 +309,44 @@ margin-bottom:100px;
     font-weight: 900;
     font-size: 18px;
 }
+
+/* SECCION BUY */
+
+.buy{
+	background-color: #222222;
+}
+
+.titulo-seccion-buy h2{
+    color: white;
+    font-weight: 200;
+    margin-top: 50px;
+    font-size: 36px;
+    margin-bottom: 50px;
+}
+
+/* FOOTER */ 
+
+footer{
+	background-image: url(../img/bg-footer.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: white;
+}
+
+.titulo-footer{
+	margin-top: 100px;
+}
+
+.caja-footer{
+    margin-top: 70px;
+    margin-bottom: 16px;
+}
+
+.caja-footer i{
+	margin: 10px;
+}
+.caja-footer i:hover{
+	color: #B3B3B3;
+	cursor: pointer;
+}
