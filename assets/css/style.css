@@ -216,3 +216,36 @@
 	margin-left: 6px;
     color: #FFC107;
 }
+
+/* NEWSLETTER */ 
+
+.newsletter{
+	background-color: black;
+}
+
+.titulo-seccion h4{
+	margin-top: 80px;
+    font-size: 36px;
+    font-weight: 900;
+    color: white;
+}
+.caja-input{
+margin-bottom:100px;
+
+}
+.caja-input input{
+    width: 551px;
+    height: 38px;
+	margin-left: 224px;
+    border-radius: 0px;
+    box-shadow: none;
+}
+.boton-newsletter{
+    width: 120px;
+    height: 38px;
+    background: #C2B49A;
+    border: none;
+    font-size: 15px;
+    font-weight: 900;
+    color: white;
+}
